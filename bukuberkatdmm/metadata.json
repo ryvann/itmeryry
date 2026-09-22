@@ -1,0 +1,6 @@
+{
+  "name": "BukuBerkatDMM",
+  "description": "Toko Buku Rohani, Keluarga, dan Kesehatan Daerah Misi Maluku dengan etalase lengkap, checkout, payment gateway otomatis, pelacakan resi, notifikasi WhatsApp, dan portal admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
