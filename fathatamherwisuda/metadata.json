@@ -1,0 +1,8 @@
+{
+  "name": "Undangan Wisuda Ramly Ngilitubun",
+  "description": "Undangan wisuda digital eksklusif M. Ramly Ngilitubun, S.Kom. pada 12 November 2026 di Universitas Doktor Husni Ingratubun Tual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
